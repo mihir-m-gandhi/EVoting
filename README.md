@@ -56,7 +56,7 @@
 
 ------------------------------------------
 ### Note
-- This project was done under `24 hours with minimal pre-preparation` at TSEC hackathon.
+- This project was done in less than `24 hours with minimal pre-preparation` at TSEC hackathon.
 
 ------------------------------------------
 ### Contributors
