@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=200px src="./evoting.jpg" alt="E-voting"></a>
+ <img height=200px src="./evoting.jpg" alt="E-voting">
 </p>
 
 <h1 align="center">Blockchain-based E-voting System</h1>
